@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3V3MCU Pin=C18-1
+Removed Pin From Net: NetName=3V3MCU Pin=C18-2
+Removed Pin From Net: NetName=3V3MCU Pin=U1-15
+Removed Member From Class: ClassName=RA6M1 Member=C?
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Added Pin To Net: NetName=3V3MCU Pin=C18-1
+Added Pin To Net: NetName=VCC_1 Pin=C18-2
+Added Pin To Net: NetName=VCC_1 Pin=U1-15
+Added Net: Name=VCC_1

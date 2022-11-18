@@ -1,0 +1,29 @@
+Added Component: Designator=C19(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CL10B104KB8NNNC/Samsung%20Electro-Mechanics/view-part/3598309/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(HDR2X6_CEN)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AVSS0 Pin=C19-1
+Added Pin To Net: NetName=3V3 Pin=C19-2
+Added Pin To Net: NetName=P103 Pin=J5-1
+Added Pin To Net: NetName=P101 Pin=J5-2
+Added Pin To Net: NetName=P100 Pin=J5-3
+Added Pin To Net: NetName=P102 Pin=J5-4
+Added Pin To Net: NetName=AVSS0 Pin=J5-5
+Added Pin To Net: NetName=AVSS0 Pin=J5-6
+Added Pin To Net: NetName=P304 Pin=J5-7
+Added Pin To Net: NetName=P404 Pin=J5-8
+Added Pin To Net: NetName=P402 Pin=J5-9
+Added Pin To Net: NetName=P405 Pin=J5-10
+Added Pin To Net: NetName=AVSS0 Pin=J5-11
+Added Pin To Net: NetName=3V3 Pin=J5-12
+Added Member To Class: ClassName=RA6M1 Member=Component C19 4.7uF/6.3V/0603
+Added Member To Class: ClassName=RA6M1 Member=Component J5 Header 6X2A
+Added Member To Class: ClassName=RA6M1 Member=Component U1 R7FA6M1AD3CFP#AA0
